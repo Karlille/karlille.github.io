@@ -35,6 +35,7 @@ transition: 0.5s
 
 /*Container Page*/
 #projects{
+  padding-top:2.5em;
   display: none;
   height: 780px;
   margin: auto;
