@@ -43,7 +43,7 @@ transition: 0.5s
 #content{
   height: 780px;
 }
-.content p{
+#content p{
   padding-top:2.5em;
   text-align: center;
 }
