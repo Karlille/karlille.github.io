@@ -50,8 +50,8 @@ transition: 0.5s
 .footer{
   background-color: black;
   position: absolute;
-  bottom : 0;
-  right: 0;
-  left: 0;
+  bottom : 0px;
+  right: 0px;
+  left: 0px;
   height: 120px;
 }
