@@ -1,6 +1,53 @@
-body{
-    background: blue;
+*{
+    font-family: 'Staatliches';
+    margin: auto 0;
+    padding: 0 auto;
 }
-h1{
+.nav{
+    background: black;
+    display: flex;
+    justify-content: space-between;
+}
+.nav h1{
     color : white;
+    padding: 0.7em;
+}
+.nav ul{
+    padding-right: 0.7em ;
+}
+.nav ul li{
+    display: inline-block;
+    padding: 0.5em;   
+}
+.nav ul li a{
+    color : white;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+.profile{
+    display: flex;
+    width: 95vw;
+    margin: auto;
+}
+#profileDesc{
+    font-size: 1.5vw ;
+}
+
+.skills{
+    background-color:#ededed;
+}
+.skills table{
+    margin: auto;
+    text-align: center;
+    width: 95vw;
+}
+.skills table td{
+    padding-top: 1em; 
+    padding-bottom: 1em;                        
+}
+.profile img{
+    width : 15%;
+    border-radius: 50%;
+    padding : 5%;
+    height: auto;
 }
