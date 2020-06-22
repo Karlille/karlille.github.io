@@ -35,14 +35,22 @@
 
 .skills{
     background-color:#ededed;
+    
+}
+#experienceheader  {
+    text-align: center;
+    padding-top: 2.5vh;
+    padding-bottom: 2.5vh;
+    font-size: 2.5vw;
 }
 .skills table{
     margin: auto;
-    text-align: center;
     width: 95vw;
+    padding-bottom: 5vh;
 }
 .skills table td{
     padding-top: 1em; 
+    text-align: center;
     padding-bottom: 1em;                        
     font-size : 0.7vw;
 }
@@ -51,4 +59,18 @@
     border-radius: 50%;
     padding : 5%;
     height: auto;
+}
+.companies{
+    padding-top : 2.5vh;
+    text-align: center;
+    background-color: white;
+}
+.companies img{
+    height: 10vh;
+    width: 12vw;
+    height: auto;
+}
+.companies h1{
+font-size: 2.5vw;
+text-align: center;
 }
