@@ -44,6 +44,7 @@
 .skills table td{
     padding-top: 1em; 
     padding-bottom: 1em;                        
+    font-size : 0.7vw;
 }
 .profile img{
     width : 15%;
