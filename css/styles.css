@@ -12,6 +12,10 @@
     color : white;
     padding: 0.7em;
 }
+.nav h1 a{
+    color : white;
+    text-decoration: none;
+}
 .nav ul{
     padding-right: 0.7em ;
 }
@@ -79,4 +83,19 @@ text-align: center;
 }
 .companies table{
     padding-top: 8vh;
+}
+.Contact{
+    background-color: black;
+    color :white;
+    width: auto;
+}
+.Contact h1 {
+    padding-top : 2vw;
+    padding-bottom : 2vw;
+text-align: center;
+}
+.Contact a {
+    font-size: large;
+    text-decoration: none;
+    color : white;
 }
