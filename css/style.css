@@ -1,0 +1,43 @@
+*{
+  margin: auto;
+  padding: 0;
+  font-family: sans-serif;
+}
+.Nav {
+  background: #5715E0;
+  overflow: hidden;
+  height: 100%;
+  width: 16%;
+  position: fixed;
+}
+#top_Design{
+  background: #5715E0;
+  overflow: hidden;
+  position: fixed;
+  top: 0%;
+  width: 100%;
+  height : 6%;
+}
+.aricleView {
+  background-color: white;
+  position: fixed;
+  overflow: hidden;
+  padding: 2%;
+  margin-left:16%;
+  margin-top: 2.8%;
+  width: 100%;
+  height: 100%;
+}
+#LOGO{ /*Place Holder for Logo or pranding Prompt*/
+  width: 100%;
+  overflow: hidden;
+  background-color: #5715E0;
+  height: 20%;
+}
+#Content_View{ /*View to hold content Container*/
+  background-color :  grey;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  overflow: hidden;
+}

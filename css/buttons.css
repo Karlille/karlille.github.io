@@ -1,0 +1,17 @@
+#Nav_Btn ,#Nav_Btn_sub{
+  width :100%;
+  padding-bottom: 2em;
+  padding-top : 2em;
+  text-align: center;
+  background-color: #D8E0F0;
+  border: none;
+  font-size: 1.2em;
+}
+/*Hovesr State*/
+#Nav_Btn:hover {
+  background-color: white;
+}
+
+#Nav_Btn_sub:hover {
+  background-color: white;
+}
